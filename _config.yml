@@ -263,7 +263,7 @@ display_categories: # these categories will be displayed on the front page of yo
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-# 
+
 scholar:
 
   last_name: [Einstein]
