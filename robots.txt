@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Ben-Gayther.github.io/sitemap.xml
