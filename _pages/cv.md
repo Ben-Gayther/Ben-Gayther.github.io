@@ -8,4 +8,5 @@ cv_pdf: false # TODO
 description:
 toc:
   sidebar: left
+# https://github.com/alshedivat/al-folio/discussions/806
 ---
